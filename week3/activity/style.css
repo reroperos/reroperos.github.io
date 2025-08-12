@@ -1,0 +1,108 @@
+.head1{
+    text-align: right;
+    color: white;
+}
+.head2{
+    text-align: center;
+    color: red;
+}
+
+.head3{
+    color: white;
+    text-align: ;
+    background-color: black;
+    border: 5px red;
+    width: 50%;
+    padding: 30px;
+}
+
+.head4{
+    color: rgb(72, 221, 72);
+}
+.head5{
+    color: yellow;
+    text-decoration: underline;
+    font-size: 15;
+}
+
+.part1{
+    color: white;
+}
+.part2{
+    color: white;
+
+}
+.part3{
+    color: white;
+    text-align: center;
+}
+.part4{
+    color: white;
+    text-align: center;
+}
+.part5{
+    color: white;
+}
+.part6{
+    color: white;
+    background-color: black;
+    padding:30px;
+    font-style: italic;
+}
+.part7{
+    color: white;
+    background-color: red;
+    
+}
+.strong1{
+    color: red;
+    text-decoration: underline;
+}
+
+.list1{
+    color: red;
+    font-style: italic;
+}
+.list2{
+    color: white;
+  
+}
+.list3{
+    color: purple;
+    font-weight: bold;
+}
+.list4{
+    color: white;
+    font-style: italic;
+}
+.list5{
+    color: white;
+    font-style: italic;
+}
+.yellow{
+    color: yellow;
+    text-decoration: underline;
+
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: rgb(59, 187, 59);
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+.bgreen{
+    color: black;
+    font-weight: bold;
+    background-color: rgb(72, 221, 72);
+}
+
+
+body{
+    background-color: #16365d;
+    font-family: Arial;
+}
