@@ -1,0 +1,50 @@
+.card{
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+h2, p{
+    margin: 0;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.card-header{
+    display: flex;
+    
+}
+
+.card-header{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    margin: 10px;
+
+}
+
+.main{
+    display: flex;
+    gap: 20px;
+}
+
+.btn{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+.btn:hover{
+    background-color: #a87f97;
+    cursor: pointer;
+}
+
+.card:hover{
+    background: #c59bc9;
+background: radial-gradient(circle, rgba(197, 155, 201, 0.42) 38%, rgba(219, 178, 186, 1) 75%);
+    cursor: pointer;
+    box-shadow: 0px -1px 14px #888888;
+}
