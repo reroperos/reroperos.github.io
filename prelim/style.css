@@ -1,0 +1,71 @@
+body{
+    margin:0;
+}
+
+h1{
+    font-size: 14;
+}
+h3, h2{
+    margin: 10px;
+}
+
+.header{
+    display: flex;
+    background: #212529;
+    height: 50px;
+    color: white;
+    padding: 10px;
+}
+.right-header{
+    display: flex;
+    margin-left: auto;
+    margin-top: 4px;
+}
+
+.btn{
+    margin: 10px;
+    background-color: #198753;   
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+img{
+    width: 67%;
+}
+
+.card-form{
+    display: flex;
+    background-color: #e6e0e0;
+}
+
+.size{
+    width: 50px;
+}
+
+
+form{
+    font-size: 20px;
+    margin: 0 auto;
+    width: 400px;
+    padding-left: 60px;
+    border: 1px solid white;
+    border: none;
+}
+.CA{
+    border: none;
+    background-color:#198753;   
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.CA:hover{
+    background-color: #1a553a;
+}
+h2{
+    text-align: center;
+}
+.lorem{
+    text-align: center;
+}
+
